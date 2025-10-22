@@ -1,0 +1,19 @@
+.SS-10-16SP-AE :1 ;Copal Electronics SS-10, 6 Position SP6T Rotary Switch, 100 mA, Solder
+SS1016SPAE
+*STM S
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=C1 8=C2
+*PLB 1="NC" 2="NO_1" 3="NO_2" 4="NO_3" 5="NO_4" 6="NO_5" 7="COM_1" 8="COM_2"
+*MXP 8
+*DFN SS-10-16SP-AE
+~!Manufacturer_Name (Nidec Copal)
+~!Manufacturer_Part_Number (SS-10-16SP-AE)
+~!Mouser Part Number (229-SS-10-16SP-AE)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nidec-Copal/SS-10-16SP-AE?qs=XeJtXLiO41Q7idip%252BN9FXA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.nidec-copal-electronics.com/e/catalog/switch/ss-10&s-2050.pdf)
+~!Height (7.3mm)
+~!3D_Model (SS-10-16SP-AE)
+SS-10-16SP-AE
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 
