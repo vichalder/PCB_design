@@ -1,9 +1,0 @@
-Manufacturer=Nidec Copal
-PartNumber=SS-10-16SP-AE
-PartCategory=Switch
-PackageCategory=Other
-PinCount=8
-Version=1.6
-Released=2024-10-17 09:59:05
-Downloaded=2025-10-22 11:11:10
-3D=Y
