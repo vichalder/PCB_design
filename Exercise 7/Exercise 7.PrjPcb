@@ -152,7 +152,24 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=G:\My Drive\Victor\PCB standards\Altium standards\Libraries\LIB_MCP73831T-2ACI_OT\MCP73831-2ACI_MC\Altium\MCP73831-2ACI_MC.SchLib
+DocumentPath=..\lib\lib_sym\MCP73831-2ACI_MC.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BIEQNFSE
+
+[Document8]
+DocumentPath=..\lib\lib_fp\SON50P300X200X100-9N-D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -168,8 +185,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
-DocumentPath=G:\My Drive\Victor\PCB standards\Altium standards\Libraries\LIB_MCP73831T-2ACI_OT\MCP73831-2ACI_MC\Altium\SON50P300X200X100-9N-D.PcbLib
+[Document9]
+DocumentPath=..\lib\lib_fp\LED_KT-0603R.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=..\lib\lib_sym\LED_KT-0603R.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
