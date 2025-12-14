@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=C22 Old Footprint=CAP_0805 New Footprint=CAP_0402
+Change Component Comment : Designator=C22 Old Comment=CAP_0805 New Comment=CAP_0402
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CAP_0805"; UniqueID = "\JNHCDNEP" ("\JNHCDNEP")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAP_0402)
+Add component (AddParameter): Name = "Capacitor Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=5V Pin=C25-2
+Added Member To Class: ClassName=finalproject_sch Member=Component C25 CAP_0402

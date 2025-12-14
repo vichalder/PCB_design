@@ -1,0 +1,10 @@
+Added Component: Designator=J3(UJ32CHGSMTTR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "UJ32-C-H-G-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/uj32-c-h-g-smt-tr/cui-devices?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/uj32-c-h-g-smt-tr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "3.71mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UJ32-C-H-G-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-UJ32CHGSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/UJ32-C-H-G-SMT-TR?qs=vvQtp7zwQdNJg60%252BwYKIHw%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=finalproject_sch Member=Component J3 UJ32-C-H-G-SMT-TR

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DIR Pin=U1-20
+Removed Pin From Net: NetName=STEP Pin=U1-21
+Added Pin To Net: NetName=STEP Pin=U1-5
+Added Pin To Net: NetName=DIR Pin=U1-6
+Added Member To Class: ClassName=finalproject_sch Member=Component J1 USB4110-GF-A

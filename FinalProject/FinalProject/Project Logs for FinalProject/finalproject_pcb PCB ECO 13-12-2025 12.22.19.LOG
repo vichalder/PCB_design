@@ -1,0 +1,40 @@
+Added Component: Designator=U5(QFN50P500X600X90-37N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TMC2130-LA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tmc2130-la/analog-devices?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/TMC2130/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TMC2130-LA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-TMC2130LA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ADI-Trinamic/TMC2130-LA?qs=TiOZkKH1s2ScTTewbXPgVg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI_CS3 Pin=U5-2
+Added Pin To Net: NetName=SPI_SCK Pin=U5-3
+Added Pin To Net: NetName=SPI_MOSI Pin=U5-4
+Added Pin To Net: NetName=SPI_MISO Pin=U5-5
+Added Pin To Net: NetName=STEP Pin=U5-6
+Added Pin To Net: NetName=DIR Pin=U5-7
+Added Pin To Net: NetName=3V3 Pin=U5-8
+Added Pin To Net: NetName=3V3 Pin=U5-10
+Added Pin To Net: NetName=STEP Pin=U5-11
+Added Pin To Net: NetName=GND Pin=U5-12
+Added Pin To Net: NetName=B1 Pin=U5-13
+Added Pin To Net: NetName=GND Pin=U5-14
+Added Pin To Net: NetName=B2 Pin=U5-15
+Added Pin To Net: NetName=VIN Pin=U5-16
+Added Pin To Net: NetName=GND Pin=U5-18
+Added Pin To Net: NetName=GND Pin=U5-22
+Added Pin To Net: NetName=NetR14_1 Pin=U5-23
+Added Pin To Net: NetName=GND Pin=U5-24
+Added Pin To Net: NetName=5VOUT Pin=U5-25
+Added Pin To Net: NetName=NetC15_2 Pin=U5-27
+Added Pin To Net: NetName=NetC15_1 Pin=U5-28
+Added Pin To Net: NetName=NetC11_1 Pin=U5-29
+Added Pin To Net: NetName=VIN Pin=U5-30
+Added Pin To Net: NetName=NetC16_2 Pin=U5-31
+Added Pin To Net: NetName=A2 Pin=U5-32
+Added Pin To Net: NetName=GND Pin=U5-33
+Added Pin To Net: NetName=A1 Pin=U5-34
+Added Pin To Net: NetName=GND Pin=U5-35
+Added Pin To Net: NetName=GND Pin=U5-36
+Added Pin To Net: NetName=GND Pin=U5-37
+Added Member To Class: ClassName=finalproject_sch Member=Component U5 TMC2130-LA

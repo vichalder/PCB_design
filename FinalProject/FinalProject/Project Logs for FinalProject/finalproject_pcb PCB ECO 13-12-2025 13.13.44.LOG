@@ -1,0 +1,13 @@
+Added Component: Designator=SW1(CJS1200TA2)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.nidec-copal-electronics.com/j/catalog/switch/cjs.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nidec Copal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CJS-1200TA2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "229-CJS-1200TA2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nidec-Components/CJS-1200TA2?qs=XeJtXLiO41Rf26ws0igWdA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR5_1 Pin=SW1-1
+Added Pin To Net: NetName=NetSW1_2 Pin=SW1-2
+Added Pin To Net: NetName=NetR6_1 Pin=SW1-3
+Added Member To Class: ClassName=finalproject_sch Member=Component SW1 CJS-1200TA2

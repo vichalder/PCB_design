@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=SPI_MISO Pin=U1-9
+Removed Pin From Net: NetName=DN1 Pin=U2-12
+Removed Pin From Net: NetName=DP1 Pin=U2-13
+Added Component: Designator=C29(CAP_0201)
+Add component (AddParameter): Name = "Capacitor Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES_0201)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES_0201)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW2(KMR232NGULCLFS)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "KMR232NG ULC LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/kmr232ngulclfs/ck?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/96283/vs-mbr2035_45ct-m3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KMR232NG ULC LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-KMR232NGULCLFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CK/KMR232NG-ULC-LFS?qs=3gW96gqhLbq2FY2oEdURkw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(KMR232NGULCLFS)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "KMR232NG ULC LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/kmr232ngulclfs/ck?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/96283/vs-mbr2035_45ct-m3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KMR232NG ULC LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-KMR232NGULCLFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CK/KMR232NG-ULC-LFS?qs=3gW96gqhLbq2FY2oEdURkw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=3V3 Pin=R19-2
+Added Pin To Net: NetName=3V3 Pin=R20-2
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Pin To Net: NetName=GND Pin=SW3-4
+Added Pin To Net: NetName=SPI_MISO Pin=U1-24
+Added Pin To Net: NetName=DN1 Pin=U1-26
+Added Pin To Net: NetName=DP1 Pin=U1-27
+Added Pin To Net: NetName=BOOT Pin=R19-1
+Added Pin To Net: NetName=BOOT Pin=SW3-1
+Added Pin To Net: NetName=BOOT Pin=U1-9
+Added Net: Name=BOOT
+Added Pin To Net: NetName=NetU2_12 Pin=U2-12
+Added Pin To Net: NetName=NetU2_12 Pin=U2-13
+Added Net: Name=NetU2_12
+Added Pin To Net: NetName=RST Pin=C29-2
+Added Pin To Net: NetName=RST Pin=R20-1
+Added Pin To Net: NetName=RST Pin=SW2-1
+Added Pin To Net: NetName=RST Pin=U1-8
+Added Net: Name=RST
+Added Member To Class: ClassName=finalproject_sch Member=Component C29 CAP_0201
+Added Member To Class: ClassName=finalproject_sch Member=Component R19 RES_0201
+Added Member To Class: ClassName=finalproject_sch Member=Component R20 RES_0201
+Added Member To Class: ClassName=finalproject_sch Member=Component SW2 KMR232NG_ULC_LFS
+Added Member To Class: ClassName=finalproject_sch Member=Component SW3 KMR232NG_ULC_LFS
